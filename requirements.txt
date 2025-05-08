@@ -1,4 +1,6 @@
-streamlit
-pandas
+geopy
 folium
-geodesic
+pandas
+streamlit
+streamlit-folium
+
